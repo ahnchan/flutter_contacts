@@ -1,3 +1,6 @@
+Original : https://github.com/QuisApp/flutter_contacts
+Add-on : Group List, Company List, Favorites/Saved ...
+
 # flutter_contacts
 
 [![pub](https://img.shields.io/pub/v/flutter_contacts?label=version)](https://pub.dev/packages/flutter_contacts)
